@@ -6,8 +6,8 @@ body {
   }
   
   @font-face {
-    font-family: 'Bacasime Antique ';
-    src:  url('./resources/fonts/Caveat/Shantell Sans-Regular.ttf') format('truetype');
+    font-family: 'Montserrat';
+    src:  url('./resources/fonts/Caveat/Montserrat.ttf') format('truetype');
   }
   
   p {
